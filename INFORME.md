@@ -1,7 +1,9 @@
+Práctica 3: ejercicio B
+
 Materiales
 ·ESP32
 
-Objetivo: usar el periférico de bluetooth del ESP32  conectándolo al móvil
+Presentacion: usar el periférico de bluetooth del ESP32  conectándolo al móvil
 
 
 EXPLICACIÓN DEL CÓDIGO:
@@ -31,4 +33,4 @@ void loop() {
   delay(20);
 }
 ```
-Explicación de la salida en el video
+Explicación de la salida en el vídeo
