@@ -1,12 +1,13 @@
-#Práctica 3: ejercicio B
+# Práctica 3: ejercicio B
 
-Materiales
-·ESP32
+## Materiales
+- ESP32
 
-Presentacion: usar el periférico de bluetooth del ESP32  conectándolo al móvil
+## Presentacion: 
+Usar el periférico de bluetooth del ESP32  conectándolo al móvil.
 
 
-EXPLICACIÓN DEL CÓDIGO:
+## EXPLICACIÓN DEL CÓDIGO:
 ```
 #include "BluetoothSerial.h"
 
