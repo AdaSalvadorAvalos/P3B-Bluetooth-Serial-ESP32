@@ -7,7 +7,7 @@
 Usar el periférico de bluetooth del ESP32  conectándolo al móvil.
 
 
-## EXPLICACIÓN DEL CÓDIGO:
+## EXPLICACIÓN DEL CÓDIGO (con comentarios que explican el funcionamiento línea a línea):
 ```
 #include "BluetoothSerial.h"
 
@@ -34,4 +34,4 @@ void loop() {
   delay(20);
 }
 ```
-Explicación de la salida en el vídeo
+Explicación de la salida en el vídeo.
