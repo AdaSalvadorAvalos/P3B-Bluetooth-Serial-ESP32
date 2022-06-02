@@ -11,7 +11,7 @@ BluetoothSerial SerialBT;
 
 void setup() {
   Serial.begin(115200);
-  SerialBT.begin("AdaMiletest"); //Bluetooth device name
+  SerialBT.begin("AdaMiletest"); 
   Serial.println("The device started, now you can pair it with bluetooth!");
 }
 
