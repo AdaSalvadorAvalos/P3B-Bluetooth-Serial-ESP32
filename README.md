@@ -62,6 +62,13 @@ void loop() {
    - Messages will appear on the Serial Monitor of VS Code, and messages from the PC will appear on your mobile
 
 
+### Resources
+- **Video Demonstration in Spanish:** [Watch video](assets/practica3Bvideo.mp4)
+- **ESP32 Documentation:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
+- **ESP32 Bluetooth Serial Documentation:** [ESP32 BluetoothSerial](https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial)  
+- **Arduino Bluetooth Reference:** [Arduino Bluetooth](https://docs.arduino.cc/libraries/bluetoothserial/)  
+- **ESP32 Bluetooth Guide:** [ESP32 Bluetooth Tutorial](https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/)  
+
 # Práctica 3-B: Serial Bluetooth en ESP32 (Versión en Español)
 
 ## Materiales
@@ -126,4 +133,8 @@ void loop() {
    - Los mensajes aparecerán en el Monitor Serial de VS Code, y los mensajes enviados desde el PC aparecerán en tu móvil
 
 ### Recursos
-- Video explicativo en español sobre el uso del Bluetooth con ESP32: [Ver video](assets/practica3Bvideo.mp4)
+- **Video demostrativo en español:** [Ver video](assets/practica3Bvideo.mp4)
+- **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html)  
+- **Documentación ESP32 Bluetooth Serial:** [ESP32 BluetoothSerial](https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial)  
+- **Referencia de Arduino Bluetooth:** [Arduino Bluetooth](https://docs.arduino.cc/libraries/bluetoothserial/)  
+- **Guía de Bluetooth en ESP32:** [ESP32 Bluetooth Tutorial](https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/)  
