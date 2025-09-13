@@ -4,7 +4,7 @@
 - ESP32
 
 ## Introduction
-In this practice, for my Digital Processors course, I learned how to use the Bluetooth peripheral of the ESP32 to communicate with a mobile device. The ESP32 acts as a Bluetooth serial device, sending and receiving data between the board and a paired device.
+In this practice, for the Digital Processors course, we learn how to use the Bluetooth peripheral of the ESP32 to communicate with a mobile device. The ESP32 acts as a Bluetooth serial device, sending and receiving data between the board and a paired device.
 
 ## Code Explanation (with line-by-line comments):
 ```cpp
@@ -76,7 +76,7 @@ void loop() {
 
 ## Introducción
 
-En esta práctica, para mi curso de Procesadores Digitales, aprendí a usar el periférico Bluetooth del ESP32 para comunicarme con un dispositivo móvil. El ESP32 actúa como un dispositivo Bluetooth Serial, enviando y recibiendo datos entre la placa y el dispositivo emparejado.
+En esta práctica, para el curso de Procesadores Digitales, aprendemos a usar el periférico Bluetooth del ESP32 para comunicarme con un dispositivo móvil. El ESP32 actúa como un dispositivo Bluetooth Serial, enviando y recibiendo datos entre la placa y el dispositivo emparejado.
 
 
 ## Explicación del código (con comentarios línea por línea):
@@ -138,4 +138,5 @@ void loop() {
 - **Documentación ESP32 Bluetooth Serial:** [ESP32 BluetoothSerial](https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial)  
 - **Referencia de Arduino Bluetooth:** [Arduino Bluetooth](https://docs.arduino.cc/libraries/bluetoothserial/)  
 - **Guía de Bluetooth en ESP32:** [ESP32 Bluetooth Tutorial](https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/)  
+
 
